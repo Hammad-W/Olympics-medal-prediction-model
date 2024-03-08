@@ -24,9 +24,10 @@
   </li>
 </ol>
 <h2>Local Setup</h2>
-<h3>Installation/h3>
+<h3>Installation</h3>
 <p>To follow this project, please install the following locally:</p>
-<ol>
+
+  <ol>
   <li>Python 3.8+</li>
 <li>Python packages</li>
   <li>pandas</li>
